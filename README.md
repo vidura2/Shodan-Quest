@@ -42,7 +42,7 @@ The tool includes several predefined search categories:
 
 Run the script using:
 
-```python shodan_quest.py ```
+```python quest.py ```
 
 Main Menu Options
 
